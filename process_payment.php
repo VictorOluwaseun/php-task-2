@@ -15,7 +15,7 @@
   $currency = "NGN";
   $txref = "rave-2993383887344jcvaaa"; // ensure you generate unique references per transaction.
   $PBFPubKey = "FLWPUBK_TEST-53c5b9787b37ba8438ab84998cf544c6-X"; // get your public key from the dashboard.
-  $redirect_url = "/success.php";
+  $redirect_url = "https://localhost/snh2/success.php";
   $payment_plan = "pass the plan id"; // this is only required for recurring payments.
 
 

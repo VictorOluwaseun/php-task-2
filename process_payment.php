@@ -13,9 +13,9 @@
   $customer_email = $email;
   $amount = $amount;  
   $currency = "NGN";
-  $txref = "rave-29933838"; // ensure you generate unique references per transaction.
-  $PBFPubKey = "<YOUR PUBLIC KEY>"; // get your public key from the dashboard.
-  $redirect_url = "https://your-website.com/urltoredirectto";
+  $txref = "rave-2993383887344jcvaaa"; // ensure you generate unique references per transaction.
+  $PBFPubKey = "FLWPUBK_TEST-53c5b9787b37ba8438ab84998cf544c6-X"; // get your public key from the dashboard.
+  $redirect_url = "/success.php";
   $payment_plan = "pass the plan id"; // this is only required for recurring payments.
 
 
